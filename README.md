@@ -5,3 +5,6 @@ It's a dash app to plot mass spectra measured at vaccuum ultra violet energies. 
 ![image](https://user-images.githubusercontent.com/7777152/115135333-a5e00980-9fcc-11eb-89e1-de2cd4837a46.png)
 
 
+<b>Installation: pip install -r requirements.txt
+
+Save the calibrated test file in the working folder and run $python app.py
